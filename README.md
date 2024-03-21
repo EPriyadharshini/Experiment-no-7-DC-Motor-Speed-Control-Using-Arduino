@@ -60,9 +60,7 @@ void loop()
 
 
 
-
-![alt text](<Screenshot 2024-03-21 131302.png>)
-
+<img width="376" alt="image" src="https://github.com/EPriyadharshini/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/144870831/9bf3c561-dd76-4a76-ad01-ee0f17654741">
 
 
 
