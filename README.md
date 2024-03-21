@@ -70,6 +70,7 @@ void loop()
 
 
 
+<img width="382" alt="image" src="https://github.com/EPriyadharshini/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/144870831/3f50d899-25d8-4a16-8a72-92f4c346413f">
 
 
 ## RESULTS AND DISCUSSION 
