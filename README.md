@@ -56,7 +56,39 @@ void loop()
 }
 ```
 ## OUTPUT
+
+
+
+
+
+
+
+
+
 <img width="378" alt="image" src="https://github.com/EPriyadharshini/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/144870831/ebaa959c-4312-4bce-8e79-316b6cdea275">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -64,13 +96,56 @@ void loop()
 
 
 
+
+
+
+
+
+
+
+
+
 ## GRAPH AND TABULATION 
+
+
+
+
+
+
+
+
+
+
+
+
 
 <img width="379" alt="image" src="https://github.com/EPriyadharshini/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/144870831/b1b9c879-75b6-40cc-841d-7d532266c6ae">
 
 
 
+
+
+
+
+
+
+
+
+
 <img width="382" alt="image" src="https://github.com/EPriyadharshini/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/144870831/3f50d899-25d8-4a16-8a72-92f4c346413f">
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## RESULTS AND DISCUSSION 
