@@ -56,7 +56,8 @@ void loop()
 }
 ```
 ## OUTPUT
-![alt text](<Screenshot 2024-03-21 111140.png>)
+<img width="378" alt="image" src="https://github.com/EPriyadharshini/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/144870831/ebaa959c-4312-4bce-8e79-316b6cdea275">
+
 
 
 
