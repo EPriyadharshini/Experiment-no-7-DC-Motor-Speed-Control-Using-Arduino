@@ -63,6 +63,10 @@ void loop()
 
 
 
+*****
+
+1)
+
 
 
 <img width="378" alt="image" src="https://github.com/EPriyadharshini/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/144870831/ebaa959c-4312-4bce-8e79-316b6cdea275">
@@ -75,9 +79,9 @@ void loop()
 
 
 
+*****
 
-
-
+2)
 
 
 
@@ -112,11 +116,9 @@ void loop()
 
 
 
+*****
 
-
-
-
-
+1)
 
 
 <img width="379" alt="image" src="https://github.com/EPriyadharshini/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/144870831/b1b9c879-75b6-40cc-841d-7d532266c6ae">
@@ -129,6 +131,9 @@ void loop()
 
 
 
+*****
+
+2)
 
 
 
